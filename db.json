@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "Aryan",
+      "email": "aryan@abc.com",
+      "dob": "2001-11-17",
+      "image": "https://i.insider.com/5899ffcf6e09a897008b5c04?width=1000&format=jpeg&auto=webp",
+      "id": 1
+    },
+    {
+      "name": "Virat",
+      "email": "virat@abc.com",
+      "dob": "2023-03-15",
+      "image": "https://im.rediff.com/cricket/2023/jan/17kohli1.jpg",
+      "id": 2
+    },
+    {
+      "name": "Dhoni",
+      "email": "dhoni@abc.com",
+      "dob": "2023-03-05",
+      "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/319900/319946.png",
+      "id": 3
+    },
+    {
+      "name": "Rohit",
+      "email": "rohit@abc.com",
+      "dob": "2023-03-08",
+      "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c244982/rohit-sharma.jpg",
+      "id": 4
+    },
+    {
+      "name": "Hrithik",
+      "email": "hrithik@abc.com",
+      "dob": "2023-02-26",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAiqoy7QhcgQkZj6RIiGTBVPBouA8gbseb5w&usqp=CAU",
+      "id": 5
+    }
+  ]
+}
